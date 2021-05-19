@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amitrana12
+- 👋 Hi, I’m @AmitRana
 - 👀 I’m interested in Learning new tech
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Angular project
